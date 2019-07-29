@@ -192,7 +192,7 @@ export default [
       id: "4"
     },
     fields: {
-      name: "single deluxe",
+      name: "ديلوكس واحدة",
       slug: "single-deluxe",
       type: "single",
       price: 300,
@@ -420,7 +420,7 @@ export default [
       id: "8"
     },
     fields: {
-      name: "double deluxe",
+      name: "ديلوكس ثنائية",
       slug: "double-deluxe",
       type: "double",
       price: 400,
@@ -648,7 +648,7 @@ export default [
       id: "12"
     },
     fields: {
-      name: "family deluxe",
+      name: "ديلوكس عائلية",
       slug: "family-deluxe",
       type: "family",
       price: 500,
@@ -705,7 +705,7 @@ export default [
       id: "13"
     },
     fields: {
-      name: "presidential",
+      name: "الرئاسية",
       slug: "presidential-room",
       type: "presidential",
       price: 600,

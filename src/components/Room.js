@@ -16,7 +16,7 @@ export default function Room({room}) {
     <Link to ={`/rooms/${slug}`} className ='btn-primary room-link' >المميزات</Link>
 
     </div>
-    <p classNmame='room-info'>{name}</p>
+    <p className='room-info'>{name}</p>
     </article>
   );
 }
@@ -25,8 +25,8 @@ Room.propTypes = {
   room:PropTypes.shape({
     name:PropTypes.string.isRequired,
     slug:PropTypes.string.isRequired,
-   images:PropTypes.arrayOf(propTypes.string).isRequired,
-    name:PropTypes.string.isRequired
+   images:PropTypes.arrayOf(PropTypes.string).isRequired,
+    price:PropTypes.number.isRequired
 
   })
 }
