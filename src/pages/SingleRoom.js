@@ -9,17 +9,39 @@ export default class SingleRoom extends Component {
  constructor (props){
    super(props)
       console.log(props)
+      this.state = {
+        slug: this.props.match.params.slug,
+        defaultBcg
+      }
  }
- componentDidMount(){
+ static contextType = RoomContext
 
- }
+//  componentDidMount(){
+   
+//  }
 
 
   render() {
-    return (
-      <div>
-        Hello from single room page
+    const {getRoom} = this.context
+    const room = getRoom(this.state.slug)
+    if(!room){
+      return <div className='error'>
+      <h3>ليس هنالك غرفة بهذا الاسم </h3>
+      <Link to ='/rooms' className='btn-primary'> العودة الى الغرف</Link>
       </div>
+    }
+    const {name, description, capacity, size, price, extras, breakfast, pets,images}= room
+
+
+   
+    return (
+     <Hero hero='roomsHero'>
+          <Banner title = {`${name}`}>
+                  <Link to = '/rooms' className = 'btn-primary'>
+                  العودة الى الغرف
+                  </Link>
+          </Banner>
+     </Hero>
     );
   }
 }
