@@ -30,7 +30,15 @@ export default class SingleRoom extends Component {
       <Link to ='/rooms' className='btn-primary'> العودة الى الغرف</Link>
       </div>
     }
-    const {name, description, capacity, size, price, extras, breakfast, pets,images}= room
+    const {name, 
+      description, 
+      capacity, 
+      size, 
+      price, 
+      extras, 
+      breakfast, 
+      pets,
+      images}= room
 
 
    
