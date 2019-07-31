@@ -8,7 +8,7 @@ export default function Rooms() {
     <Hero hero ='roomsHero'>
       <Banner 
       title="الغرف الفاخره" subtitle='الغرف اللديلوكس تبدا من ٢٩٩ دولار'>
-          <Link to ='/rooms' className='btn-primary'>
+          <Link to ='/' className='btn-primary'>
       عودة للرئيسية
           </Link>
       </Banner>
