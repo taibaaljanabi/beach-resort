@@ -57,11 +57,21 @@ export default class SingleRoom extends Component {
      </StyledHero>
      <section className= 'single-room'>
      <div className = 'single-room-images'>
-     {images.map((item, index) => {
+     {defaultImg.map((item, index) => {
        return <img key= {index} src= {item} alt={name} /> 
 
      })}
      
+     </div>
+     <div className = 'single-room-info'>
+     <article className= 'desc'>
+     <h3>التفاصيل</h3>
+     <p>{description}</p>
+     
+     </article>
+
+
+
      </div>
     
      </section>
