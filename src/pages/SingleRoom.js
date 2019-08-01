@@ -40,6 +40,9 @@ export default class SingleRoom extends Component {
       breakfast, 
       pets,
       images}= room
+      
+      const [mainImg,...defaultImg] = images
+      console.log(defaultImg) 
 
 
    
