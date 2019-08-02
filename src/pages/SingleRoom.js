@@ -67,13 +67,28 @@ export default class SingleRoom extends Component {
      <article className= 'desc'>
      <h3>التفاصيل</h3>
      <p>{description}</p>
-     
      </article>
-
-
-
+     <article className = 'info'>
+     <h3>معلومات</h3>
+     <h6>السعر: ${price}</h6>
+     <h6>الحجم: ${size} SQFT</h6>
+     <h6>
+       السعى القصوى : {
+         capacity > 1 ?  `${capacity} اشخاص`: `${capacity} شخص`
+       }
+     </h6>
+     <h6>{pets ? 'مسموح وجود الحيوانات الاليفة' : 'غير مسموح بوجود الحيوانات الاليفة'}</h6>
+     <h6>{breakfast && "تتضمن فطور مجاني"}</h6>
+     </article>
      </div>
-    
+     </section>
+     <section className='room-extras'>
+     <h6>اضافات</h6>
+     <ul className='extras'>
+     {extras.map((item, index) =>{
+       return <li key={index}>- {item}</li>
+     })}
+     </ul>
      </section>
 
      </>
