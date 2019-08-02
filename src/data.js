@@ -33,13 +33,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -90,13 +90,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -147,13 +147,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -204,13 +204,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -261,13 +261,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -318,13 +318,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -375,13 +375,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -432,13 +432,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -489,13 +489,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -546,13 +546,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -603,13 +603,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -660,13 +660,13 @@ export default [
       description:
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "مخدات مريحة",
+        "مناديل حمام ناعمة",
+        "مستلزمات مرحاض",
+        "مرطبات مجانية",
+        "امان",
+        "انترنيت",
+        "اسرة مريحة"
       ],
       images: [
         {
@@ -718,7 +718,7 @@ export default [
         "لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيم"
         ,
       extras: [
-        "Plush pillows and breathable bed linens",
+        "مخدات مريحة",
         "مناديل حمام ناعمة",
         "مستلزمات مرحاض",
         "مرطبات مجانية",
