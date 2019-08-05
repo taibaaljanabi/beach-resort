@@ -1,7 +1,7 @@
 import React from 'react';
 import Room from './Room'
 
-export default function RoomList(rooms) {
+export default function RoomList({rooms}) {
   if (rooms.length  === 0 ){
     return(
       <div className= 'empty-search'>
@@ -11,7 +11,7 @@ export default function RoomList(rooms) {
   }
   return (
     <section className='roomslist'>
-        <div className='roomlist-center'>
+        <div className='roomslist-center'>
       {rooms.map(item => {
         return <Room key={item.id} room={item}/>
       })}
