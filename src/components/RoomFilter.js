@@ -38,7 +38,11 @@ export default function RoomFilter({rooms}) {
   {/*select type */}
   <div className= 'form-group'>
   <label htmlFor = 'type'>نوع الغرفة</label>
-  <select name= 'type' id = 'type' value = {type} className = 'form-control' onChange = {handleChange}>
+  <select name= 'type' 
+  id = 'type'
+   value = {type} 
+   className = 'form-control' 
+   onChange = {handleChange}>
   {types}
 
   </select>

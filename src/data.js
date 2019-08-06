@@ -21,9 +21,9 @@ export default [
       id: "1"
     },
     fields: {
-      name: "احادية اقتصادية",
+      name: "اقتصادية احادية",
       slug: "single-economy",
-      type: "single",
+      type: "احادية",
       price: 100,
       size: 200,
       capacity: 1,
@@ -78,9 +78,9 @@ export default [
       id: "2"
     },
     fields: {
-      name: "احادية عادية",
+      name: "عادية احادية",
       slug: "single-basic",
-      type: "single",
+      type: "احادية",
       price: 150,
       size: 250,
       capacity: 1,
@@ -137,7 +137,7 @@ export default [
     fields: {
       name: "احادية",
       slug: "single-standard",
-      type: "single",
+      type: "احادية",
       price: 250,
       size: 300,
       capacity: 1,
@@ -192,9 +192,9 @@ export default [
       id: "4"
     },
     fields: {
-      name: "ديلوكس واحدة",
+      name: "ديلوكس احادية",
       slug: "single-deluxe",
-      type: "single",
+      type: "احادية",
       price: 300,
       size: 400,
       capacity: 1,
@@ -251,7 +251,7 @@ export default [
     fields: {
       name: "اقتصادية مزدوجة",
       slug: "double-economy",
-      type: "double",
+      type: "مزدوجة",
       price: 200,
       size: 300,
       capacity: 2,
@@ -308,7 +308,7 @@ export default [
     fields: {
       name: "عادية مزدوجة",
       slug: "double-basic",
-      type: "double",
+      type: "مزدوجة",
       price: 250,
       size: 350,
       capacity: 2,
@@ -363,9 +363,9 @@ export default [
       id: "7"
     },
     fields: {
-      name: "المزدوجة",
+      name: "مزدوجة",
       slug: "double-standard",
-      type: "double",
+      type: "مزدوجة",
       price: 300,
       size: 400,
       capacity: 2,
@@ -420,9 +420,9 @@ export default [
       id: "8"
     },
     fields: {
-      name: "ديلوكس ثنائية",
+      name: "ديلوكس مزدوجة",
       slug: "double-deluxe",
-      type: "double",
+      type: "مزدوجة",
       price: 400,
       size: 500,
       capacity: 2,
@@ -477,9 +477,9 @@ export default [
       id: "9"
     },
     fields: {
-      name: "عائلية توفير",
+      name: "توفير عائلية",
       slug: "family-economy",
-      type: "family",
+      type: "عائلية",
       price: 300,
       size: 500,
       capacity: 3,
@@ -534,9 +534,9 @@ export default [
       id: "10"
     },
     fields: {
-      name: "عائلية عادية",
+      name: "عادية عائلية",
       slug: "family-basic",
-      type: "family",
+      type: "عائلية",
       price: 350,
       size: 550,
       capacity: 4,
@@ -591,9 +591,9 @@ export default [
       id: "11"
     },
     fields: {
-      name: "مستوى عائلي",
+      name: "عائلية",
       slug: "family-standard",
-      type: "family",
+      type: "عائلية",
       price: 400,
       size: 600,
       capacity: 5,
@@ -650,7 +650,7 @@ export default [
     fields: {
       name: "ديلوكس عائلية",
       slug: "family-deluxe",
-      type: "family",
+      type: "عائلية",
       price: 500,
       size: 700,
       capacity: 6,
@@ -705,9 +705,9 @@ export default [
       id: "13"
     },
     fields: {
-      name: "الرئاسية",
+      name: "رئاسية",
       slug: "presidential-room",
-      type: "presidential",
+      type: "رئاسية",
       price: 600,
       size: 1000,
       capacity: 10,
