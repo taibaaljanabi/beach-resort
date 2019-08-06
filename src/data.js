@@ -21,7 +21,7 @@ export default [
       id: "1"
     },
     fields: {
-      name: "single economy",
+      name: "احادية اقتصادية",
       slug: "single-economy",
       type: "single",
       price: 100,
@@ -78,7 +78,7 @@ export default [
       id: "2"
     },
     fields: {
-      name: "single basic",
+      name: "احادية عادية",
       slug: "single-basic",
       type: "single",
       price: 150,
@@ -135,7 +135,7 @@ export default [
       id: "3"
     },
     fields: {
-      name: "single standard",
+      name: "احادية",
       slug: "single-standard",
       type: "single",
       price: 250,
@@ -249,7 +249,7 @@ export default [
       id: "5"
     },
     fields: {
-      name: "double economy",
+      name: "اقتصادية مزدوجة",
       slug: "double-economy",
       type: "double",
       price: 200,
@@ -306,7 +306,7 @@ export default [
       id: "6"
     },
     fields: {
-      name: "double basic",
+      name: "عادية مزدوجة",
       slug: "double-basic",
       type: "double",
       price: 250,
@@ -363,7 +363,7 @@ export default [
       id: "7"
     },
     fields: {
-      name: "double standard",
+      name: "المزدوجة",
       slug: "double-standard",
       type: "double",
       price: 300,
@@ -477,7 +477,7 @@ export default [
       id: "9"
     },
     fields: {
-      name: "family economy",
+      name: "عائلية توفير",
       slug: "family-economy",
       type: "family",
       price: 300,
@@ -534,7 +534,7 @@ export default [
       id: "10"
     },
     fields: {
-      name: "family basic",
+      name: "عائلية عادية",
       slug: "family-basic",
       type: "family",
       price: 350,
@@ -591,7 +591,7 @@ export default [
       id: "11"
     },
     fields: {
-      name: "family standard",
+      name: "مستوى عائلي",
       slug: "family-standard",
       type: "family",
       price: 400,
