@@ -37,7 +37,7 @@ export default function RoomFilter({rooms}) {
      return <option key ={index} value = {item} >{item}</option>  })
 
   return <section className = 'filter-container'>
-  <Title title = 'ابحث عن الغرف'/>
+  <Title title = "ابحث"/>
   <form className= 'filter-form'>
   {/*select type */}
   <div className= 'form-group'>
